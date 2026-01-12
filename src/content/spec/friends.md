@@ -12,7 +12,7 @@ description: "与优秀的朋友们一起成长"
 ```yaml
 站点名称: 随记
 站点描述: 记录生活
-站点链接: https://fatalty.win
+站点链接: https://kakadou-github.io
 头像链接: https://q1.qlogo.cn/g?b=qq&nk=7618557&s=640
 
 ```
