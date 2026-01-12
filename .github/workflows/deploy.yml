@@ -42,7 +42,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           token: ${{ secrets.GH_PAT }} # 需要在仓库的Settings->Secrets and variables->Actions中添加GH_PAT，该Token需要有写入权限
-          repository-name: kakadou/kakadou-github.io # 你的GitHub Pages仓库名称
+          repository-name: kakadou/kakadou.github.io # 你的GitHub Pages仓库名称
           branch: main # 部署到custom分支
           folder: dist # Astro默认构建输出目录
           clean: true # 清理目标分支中的旧文件

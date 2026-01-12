@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "记录生活，分享点滴",
 
 	// 站点 URL
-	site_url: "https://kakadou-github.io",
+	site_url: "https://kakadou.github.io",
 
 	// 站点描述
 	description:
