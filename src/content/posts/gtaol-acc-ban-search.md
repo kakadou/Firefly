@@ -5,7 +5,7 @@ pinned: true
 description: 快速查询GTAOL账号BE封禁状态及BE反作弊今天是否发力
 tags: [GTAOL, 反作弊, BE封禁查询]
 category: GTA
-draft: flase
+draft: false
 image: ./images/firefly2.webp
 ---
 
