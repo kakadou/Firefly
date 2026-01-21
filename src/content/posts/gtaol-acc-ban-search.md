@@ -6,7 +6,6 @@ description: 快速查询GTAOL账号BE封禁状态及BE反作弊今天是否发�
 tags: [GTAOL, 反作弊, BE封禁查询]
 category: GTA
 draft: false
-image: ./images/firefly2.webp
 ---
 
 ## 🌟 项目概述
